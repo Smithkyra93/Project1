@@ -1,6 +1,13 @@
+header{
+  background-color: lightgray
+  text align: center;
+  padding: 25px;
+}
 
-
-
+.navbar{
+  background-color: darkblue
+  height: 50px;
+}
   /* border-style: solid; */
 
 
@@ -13,13 +20,6 @@ body {
     color: darkgreen
     font-family antic slab, serif
       }
-.header-nav-menu {
-  margin: 0;
-  padding:0;
-  list-style: none,
-  display flex;
-  justify-content: flex-end;
-}
 
 .heading-container {
   display:flex;
@@ -50,6 +50,9 @@ header {
 [type=text], [type=email] {
   padding: 5px;
 }
+p {
+  border: 3px solid black
+}
 
 .logo {
   color:black;
@@ -65,7 +68,7 @@ header {
 
 .profile-image {
   width: 230px;
-  display: block
+  
 
 }
 .profile {
