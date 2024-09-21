@@ -1,14 +1,12 @@
-*{
-  padding:0;
-  margin:0;
+body {
+  background-color: darkgray;
 }
 
-.profilePic{
-  max-height: 300px;
+p{
+  border: 3px solid black;
 }
 
-ul{
-  list-style: none;
-  display: flex;
-  gap: 30px
+.highlighted {
+  background-color: #dcffff;
+  border: 3px ridge darkgreen;
 }
