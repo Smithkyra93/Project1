@@ -1,9 +1,11 @@
 body {
-  background-color: darkgray;
+  background-color: black;
+    font-famly: Inter, sans-serif;
+    color: white;
 }
 
 p{
-  border: 3px solid black;
+  border: 3px solid rgb(227, 224, 224);
 }
 
 .highlighted {
