@@ -1,9 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
-
+<!DOCTYPE html> 
+<title> 
+<head> @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap')
+</head>
+</title>
 *{
     padding: 0;
     margin: 0;
-    box-sizing: border-box;
+    box-sizing border-box;
 }
 :root{
     --primary-color: 
@@ -174,4 +177,4 @@ font-weight: 700;
 .interest_item svg {
     width: 2rem;
 }
-.contact
+</html>

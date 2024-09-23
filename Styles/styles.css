@@ -1,4 +1,7 @@
-body {
+<!DOCTYPE html>
+<title>
+<head>
+ body {
   background-color: black;
     font-family: Inter, sans-serif;
     color: white;
@@ -12,4 +15,5 @@ p{
   background-color: #dcffff;
   border: 3px ridge darkgreen;
 }
-
+</head>
+</title>
