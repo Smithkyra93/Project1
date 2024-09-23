@@ -13,7 +13,7 @@ html {
     font-size: 10px;
 }
 body {
-    font-famly: Inter, sans-serif;
+    font-family: Inter, sans-serif;
     background-color: black;
     color: white;
 }
@@ -92,12 +92,12 @@ a {
     max-width:250px;
 }
 .profile_name_firstName{
-    color: white;
+    color: rgb(117, 10, 10);
     font-size: 200;
     font-size: clamp(2rem, 8vw, 4rem);
     text-transform: uppercase;
     display: block;
-    margin-bottom; -0.8rem;
+    margin-bottom: -0.8rem;
 }
 .profile_name_lasttName{
     color: var(--primary-color)
