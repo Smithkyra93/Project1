@@ -1,12 +1,13 @@
 body {
-  background-color: darkgray;
+  background-color: rgb(86, 83, 83);
 }
 
 p{
-  border: 3px solid black;
+  border: 3px solid white;
 }
 
 .highlighted {
   background-color: #dcffff;
   border: 3px ridge darkgreen;
 }
+
