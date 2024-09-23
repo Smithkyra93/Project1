@@ -1,9 +1,9 @@
 body {
-  background-color: rgb(86, 83, 83);
+  background-color: darkgray;
 }
 
 p{
-  border: 3px solid white;
+  border: 3px solid black;
 }
 
 .highlighted {
