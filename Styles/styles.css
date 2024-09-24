@@ -1,8 +1,9 @@
-<!DOCTYPE html>
-<title>
-<head>
- body {
-  background-color: black;
+<!doctype html>
+<html lang=en>
+ <head>
+  <title>
+body {
+  background-color:black;
     font-family: Inter, sans-serif;
     color: white;
 }
@@ -17,3 +18,4 @@ p{
 }
 </head>
 </title>
+</body>
