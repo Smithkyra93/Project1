@@ -1,11 +1,7 @@
-<!doctype html>
-<html lang=en>
- <head>
-  <title>@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap')
 *{
     padding: 0;
     margin: 0;
-    box-sizing border-box;
+    box-sizing: border-box;
 }
 :root{
     --primary-color: 
@@ -63,7 +59,7 @@ a {
     margin: 0 auto;
     display: grid;
     padding: 5rem;
-    background: #070707
+    background: #070707;
     grid-template-column: 1fr 1fr;
     gap: 4rem;
 }
@@ -102,7 +98,7 @@ a {
     margin-bottom: -0.8rem;
 }
 .profile_name_lasttName{
-    color: var(--primary-color)
+    color: var(--primary-color);
     font-weight: 700;
     font-size: clamp(2.5rem, 15vw, 7rem);
     text-transform: uppercase;
@@ -158,7 +154,7 @@ font-weight: 700;
 }
 /* Interests */
 .interest_items {
-    margin-top 2rem;
+    margin-top: 2rem;
     display: flex;
     align-items: center;
     flex-wrap: wrap;
@@ -168,9 +164,9 @@ font-weight: 700;
     font-size: 1.5rem;
     display:flex;
     flex-direction: column;
-    align-items; center;
+    align-items: center;
     justify-content: center;
-    gap; .5rem;
+    gap: .5rem;
     color: var(--text-color);
 }
 .interest_item svg {

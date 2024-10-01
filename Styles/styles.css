@@ -1,13 +1,13 @@
 body {
-  background-color:black;
+    background-color:black;
     font-family: Inter, sans-serif;
     color: white;
 }
-p{
-  border: 3px solid rgb(227, 224, 224);
-}
-
 .highlighted {
   background-color: #dcffff;
   border: 3px ridge darkgreen;
+}
+
+.profilePic {
+  height: 200px;
 }
