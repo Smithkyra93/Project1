@@ -21,9 +21,7 @@ body {
   --primary-color: 
   --text-color:var(--primary-color)
 }
-html {
-  font-size: 10px;
-}
+
 body {
   font-family: Inter, sans-serif;
   background-color: black;
@@ -166,14 +164,7 @@ font-weight: 700;
 .exp_item {
   margin-top: 2rem;
 }
-/* Interests */
-.interest_items {
-  margin-top: 2rem;
-  display: flex;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 2rem;
-}
+
 .interest_item{
   font-size: 1.5rem;
   display:flex;
