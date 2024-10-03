@@ -18,7 +18,7 @@ Future Improvements: HTML heiarchy and spacing, parent/child, HTML errors, addin
 - As a potential client, I am looking to feel represented as a BIPOC.
 
 Wireframes:
-<img src="./Images/Wireframe1.png" >
-<img src="./Images/Wireframe2.png">
-<img src="./Images/Wireframe3.png">
+<img src="./Images/WireframeHomePage.png" >
+<img src="./Images/WireframeContactPage.png">
+<img src="./Images/WireframeResume.png">
 
