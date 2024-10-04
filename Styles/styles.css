@@ -137,7 +137,7 @@ a {
 }
 
 /* Expertise */
-.skkil_list{
+.skill_list{
   margin-top: 1rem;
   margin-left: 2rem;
   line-height: 2;
@@ -154,15 +154,36 @@ font-weight: 700;
 /* education */
 .edu_item {
   margin-top: 2rem;
+  font-size: 1.5rem;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: .5rem;
+  color: var(--text-color);
 }
 
 /* certification */
 .certification_item {
   margin-top: 2rem;
+  font-size: 1.5rem;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: .5rem;
+  color: var(--text-color);
 }
 /* exp */
 .exp_item {
   margin-top: 2rem;
+  font-size: 1.5rem;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: .5rem;
+  color: var(--text-color);
 }
 
 .interest_item{
